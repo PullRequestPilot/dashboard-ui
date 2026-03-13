@@ -1,0 +1,1 @@
+// Canvas-based chart renderer for large datasets
